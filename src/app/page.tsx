@@ -51,7 +51,7 @@ export default function Home() {
               >
                 <span className="text-sm ">1</span> Masiphumelele
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 I am going to start to relive my journey on my little boat when
                 Margie and I spent 4 years sailing. It all started in about 1984
                 when I bought a bare hull and built a yacht on Kraanshof farm,
@@ -67,7 +67,7 @@ export default function Home() {
               >
                 <span className={`text-sm`}>2</span> Simons Town Yacht Club
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Launch day. About 3 years of building. A lot of work and
                 sacrifice. It's your ambition, dream and determination that
                 drives you. Earned the money by diving diamonds on the west
@@ -92,7 +92,7 @@ export default function Home() {
                 Atlantic Ocean Sailing
               </h1>
 
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Off to saint helena island, Atlantic ocean . Self steering
                 packed up 300 miles outside CT. Steered 1400 miles by hand. 2 of
                 us 2 hours on 2 hours off. 24 hours for the next 14 days. Saint
@@ -120,7 +120,7 @@ export default function Home() {
               >
                 <span className="text-sm ">4</span> Salvador, Brazil
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Saint helena to salvador, Brazil, 1800 miles nautical. 18 days
                 lockdown like in a 7M x 2M room that doesn't stop moving and you
                 have headroom in half of that. You can go up on the roof and
@@ -151,7 +151,7 @@ export default function Home() {
               >
                 <span className="text-sm ">5</span> Salvador, Brazil 2
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 We had a 6 month Visa for Brazil. This place left an indelible
                 mark on my brain. Coming from a verkrampte boere state, brazil
                 was such fun. With a 400% inflation nobody saves, its like there
@@ -176,7 +176,7 @@ export default function Home() {
               >
                 <span className="text-sm ">6</span> Îles du Salut
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 After 4 weeks in the Amazon we left Brazil. Stopped of at il du
                 salute or devils island from movie papillon. Off french Guana.
                 We knew this was a hang out spot for yachts and were so pleased
@@ -200,7 +200,7 @@ export default function Home() {
               >
                 <span className="text-sm ">7</span> Tobago
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 We left Iles du Salut for Tobago, southern part of the
                 Caribbean. Absolutely beautiful. crystal clear seas after those
                 muddy water of Brazil's estuaries. Now we living the cruising
@@ -228,7 +228,7 @@ export default function Home() {
                 <span className="text-sm ">8</span> Mullet Bay Resort on Saint
                 Maarten
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 December 1988 we got a job running the dock at mullet bay resort
                 on Saint maarten. Margie ran activities desk, booking
                 paragliding, Yamaha wave runners, jetski, ski boat hire, banana
@@ -259,7 +259,7 @@ export default function Home() {
                 <span className="text-sm ">9</span> Lasaves and Curacao off
                 Venezuela
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Now we were tired of tourists, Chase Manhattan bank balance was
                 overflowing. Did major repairs and maintenance. Chart draws full
                 of charts for the Pacific. Acquired a GPS. New outboard 2hp. New
@@ -288,7 +288,7 @@ export default function Home() {
               >
                 <span className="text-sm ">10</span> San Blas Islands
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 19 December 1989. We on our way to the Panama. Gale force wind
                 nicely on our stern. Fully reefed main and a small little storm
                 jib. BBC announce Panama canal closed. America had declared war
@@ -319,7 +319,7 @@ export default function Home() {
               >
                 <span className="text-sm ">11</span> Panama canal
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Transiting the Panama canal is an exciting time for any
                 yachtsman. We hung out at the colon yacht club while we
                 organized paperwork. This place is the crossroads for drugs,
@@ -347,7 +347,7 @@ export default function Home() {
               >
                 <span className="text-sm ">12</span> Panama City
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Now we in Panama City, pacific side. We have been travelling
                 with yacht Cedilla since San blaas and made good friends with
                 the Frazers, an American family. We organized visas for Ecuador.
@@ -376,7 +376,7 @@ export default function Home() {
               >
                 <span className="text-sm ">13</span> Ecuador to Galapagos
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Ecuador to Galapagos 696 miles, 9.5 days. We on the equator,
                 doldrums, no wind, open skies and you can see the squalls coming
                 very strong gusts will flatten you or tear up your sails if too
@@ -404,7 +404,7 @@ export default function Home() {
               >
                 <span className="text-sm ">14</span> Pitcairn Island
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Leaving Galapagos We on our way to Pitcairn island. For 11 days
                 we bashed against a headwind and made very slow progress. We
                 then adjusted the wind vane and headed for the marquesas, a
@@ -433,7 +433,7 @@ export default function Home() {
               >
                 <span className="text-sm ">15</span> French Polynesia
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 We spent about 6 months in French polynesia. Most of the time
                 was surfing, as conditions were ideal. 1 foot tide difference,
                 trade winds stead from the S - SE. And you surfing close to the
@@ -468,7 +468,7 @@ export default function Home() {
               >
                 <span className="text-sm ">16</span> Huahine, Bora Bora
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 We left Huahine, a 6 day stop at Bora Bora . Our last stop in
                 French polynesia, was Mopelia, an atoll 100 miles away. We were
                 the only yacht here. There were 3 families all living about 2 km
@@ -497,7 +497,7 @@ export default function Home() {
                 <span className="text-sm ">17</span> Mopelia Atoll/ Aitutaki,
                 Cook Islands
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 We left mopelia atoll were going to do a quick stop over on
                 #aitutaki northern part of cook island 380 miles away. We needed
                 dry goods as we shared all with the families on mopelia. Looking
@@ -540,7 +540,7 @@ export default function Home() {
                 <span className="text-sm ">18</span> Tonga, Fiji, New Caledonia,
                 and Lord Howe Island then the Mainland of Australia
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 We spent the next 5 months in Tonga, fiji, new caledonia, and
                 #lordhoweisland then the mainland of australia. One of the
                 nicest things about cruising is the other people sailing. This
@@ -568,7 +568,7 @@ export default function Home() {
               >
                 <span className="text-sm ">19</span> Australia
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 We spent a year in aussie. 6 months I worked on a commercial
                 fishing vessel.
               </p>
@@ -589,7 +589,7 @@ export default function Home() {
               >
                 <span className="text-sm ">20</span> Australia 2
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 4 months Visa left in aussie. From Sydney we make our way north
                 along the new south wales coast. Aussie are great water people,
                 cruising yachts it's a way of life and wherever you go you are
@@ -619,7 +619,7 @@ export default function Home() {
               >
                 <span className="text-sm ">21</span> Cocos Keeling Island
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 We found a little gem in the Indian Ocean cocos keeling island.
                 A feat on its own. 1980 miles or 3680 km or 17 days . We had a
                 most pleasant trip steady trade winds all the way. We hung out
@@ -649,7 +649,7 @@ export default function Home() {
               >
                 <span className="text-sm ">22</span> Rodrigues Island
               </h1>
-              <p className={`text-md ${nunito.className}`}>
+              <p className={`sm:text-xl text-md ${nunito.className}`}>
                 Cocos keeling to #rodriguesisland was also a distance and no
                 turning back. 1960 miles and a record time of 16 days weather
                 and current I our favour. We were in a convoy of 6 boats,
